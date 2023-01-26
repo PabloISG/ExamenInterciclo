@@ -1,0 +1,2 @@
+insert into empleado(nombre,apellido,contacto,direccion,fechaNacimiento,observaciones,diasTrabajados,sueldo) values ('pablo','sumba',0980754124,'Cuenca','25/09/2000','NA',20,300)',
+insert into empleado(nombre,apellido,contacto,direccion,fechaNacimiento,observaciones,diasTrabajados,sueldo) values ('carlos','zaruma',0980724,'Cuenca','15/12/1991','NA',20,300)',
